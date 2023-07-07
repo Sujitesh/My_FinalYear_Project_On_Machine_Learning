@@ -28,7 +28,7 @@ The experimental results demonstrate that the Random Forest classifier outperfor
 
 1. Dataset: The dataset used for training and evaluation should be obtained separately and can be stored in the `data` directory.
 
-2. Dependencies: Install the required dependencies by running the command `pip install -r requirements.txt`.
+2. Dependencies: Install the required dependencies based on import statements. 
 
 3. Training and Testing: Use the provided scripts to preprocess the data, train the machine learning classifiers, and evaluate their performance.
 
